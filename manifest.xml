@@ -1,0 +1,19 @@
+<package>
+  <description brief="ontologies">
+
+    Collection of ontologies for various domains.
+  </description>
+  <author>Georgios Fagogenis</author>
+  <license>GPL</license>
+  <review status="unreviewed" notes=""/>
+  <url></url>
+  <depend package="json_prolog"/>
+  <depend package="thea"/>
+  <depend package="semweb"/>
+  <depend package="ias_prolog_addons"/>
+  <export>
+    <rosdoc config="rosdoc.yaml" />
+  </export>
+</package>
+
+
